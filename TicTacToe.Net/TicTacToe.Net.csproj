@@ -132,6 +132,10 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="package-lock.json" />
     <Content Include="package.json" />
+    <Content Include="Scripts\index.html" />
+    <Content Include="Scripts\tictactoe.css" />
+    <Content Include="Scripts\tictactoe.js" />
+    <Content Include="Scripts\tictactoeloader.js" />
     <Content Include="webpack.config.js" />
     <Content Include="clientapp\manifest.json" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
